@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/task/mlruns/724560023455208185/1a59379a6f694306becc03118963c52e/artifacts
+end_time: 1740059407951
+entry_point_name: ''
+experiment_id: '724560023455208185'
+lifecycle_stage: active
+run_id: 1a59379a6f694306becc03118963c52e
+run_name: SVM
+run_uuid: 1a59379a6f694306becc03118963c52e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740059387248
+status: 3
+tags: []
+user_id: shabn

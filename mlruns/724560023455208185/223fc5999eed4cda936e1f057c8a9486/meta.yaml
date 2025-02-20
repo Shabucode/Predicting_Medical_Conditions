@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/task/mlruns/724560023455208185/223fc5999eed4cda936e1f057c8a9486/artifacts
+end_time: 1740059005531
+entry_point_name: ''
+experiment_id: '724560023455208185'
+lifecycle_stage: active
+run_id: 223fc5999eed4cda936e1f057c8a9486
+run_name: Gradient Boosting
+run_uuid: 223fc5999eed4cda936e1f057c8a9486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740058916441
+status: 3
+tags: []
+user_id: shabn

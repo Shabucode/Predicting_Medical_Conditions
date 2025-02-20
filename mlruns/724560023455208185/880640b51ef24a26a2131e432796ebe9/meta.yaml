@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/task/mlruns/724560023455208185/880640b51ef24a26a2131e432796ebe9/artifacts
+end_time: 1740058916432
+entry_point_name: ''
+experiment_id: '724560023455208185'
+lifecycle_stage: active
+run_id: 880640b51ef24a26a2131e432796ebe9
+run_name: Random Forest
+run_uuid: 880640b51ef24a26a2131e432796ebe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740058912157
+status: 3
+tags: []
+user_id: shabn

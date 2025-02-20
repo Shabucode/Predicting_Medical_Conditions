@@ -1,0 +1,10 @@
+flask
+black
+ipykernel
+scikit-learn
+joblib
+pandas
+requests
+matplotlib
+seaborn
+nltk

@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/task/mlruns/724560023455208185/0740a224327d48b4a9ec5257af02c16d/artifacts
+end_time: 1740059301019
+entry_point_name: ''
+experiment_id: '724560023455208185'
+lifecycle_stage: active
+run_id: 0740a224327d48b4a9ec5257af02c16d
+run_name: Logistic Regression
+run_uuid: 0740a224327d48b4a9ec5257af02c16d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740059297874
+status: 3
+tags: []
+user_id: shabn
